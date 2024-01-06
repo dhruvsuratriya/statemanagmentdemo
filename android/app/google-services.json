@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118912599534",
+    "project_id": "foodappcollege-29536",
+    "storage_bucket": "foodappcollege-29536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118912599534:android:4ad4bed6393f0b2a5afaff",
+        "android_client_info": {
+          "package_name": "com.example.foodappcollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN95n3xMPwEe0c_pcgM2bgYioZ66EXTJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
